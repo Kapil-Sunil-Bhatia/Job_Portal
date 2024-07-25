@@ -1,4 +1,4 @@
-Project 2: Job listing Portal using MERN stack.
+### Project 2: Job listing Portal using MERN stack.
 
 Comprehensive Knowledge and Hands-on Experience:
 1.	CRUD Operations: Implemented Create, Read, Update, and Delete operations using the MERN stack.
