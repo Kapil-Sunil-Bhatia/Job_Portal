@@ -33,8 +33,11 @@
 
 ## Team Contribution:
 This project was a collaborative effort by a team of two people:
+
 •	Dakshita Kolte: Contributed to the backend development.
+
 •	Kapil Bhatia: Contributed to the. frontend development and design.
+
 Together, both have built this project, and the code is available on the GitHub.
 
 ## Conclusion:
